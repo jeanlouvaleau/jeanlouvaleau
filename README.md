@@ -26,7 +26,12 @@ Python, Excel VBA, Microsoft Office
 
     Skills developed in this project : Data extraction and cleansing, descriptive statistics, data visualization, introduction to machine learning.
 
-- ENSAE Linear Time Series project (in R) : its goal is to to model the French oil refining industrial production index (IPI) with an ARIMA model. 
+- ENSAE Linear Time Series project (in R) : its goal is to to model the French oil refining industrial production index (IPI) with an ARIMA model.
+
+    It can be found here: https://github.com/Julien-website/STL_Project
+
+    Skills developed in this project : Data Science, Time Series modelization, Rstudio, Econometrics
+  
 
 ### Current projects 
 
