@@ -26,6 +26,8 @@ Python, Excel VBA, Microsoft Office
 
     Skills developed in this project : Data extraction and cleansing, descriptive statistics, data visualization, introduction to machine learning.
 
+- ENSAE Linear Time Series project (in R) : its goal is to to model the French oil refining industrial production index (IPI) with an ARIMA model. 
+
 ### Current projects 
 
 - ENSAE Applied Statistics projects : This project is conducted throughout the year at ENSAE, under the supervision of P. Dumont, head of Quantitative Volatility Trading at Société Générale. The objective is to quantify the overfitting associated with different machine learning methods applied to the prediction of financial asset returns. We are working with simulated data and aim to eventually identify which ML methods produce the best out-of-sample Sharpe ratio based on various conditions (asset covariance, number of signals used, size of the training sample, signal-to-noise ratio, etc).
