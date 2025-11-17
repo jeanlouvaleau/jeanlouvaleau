@@ -4,9 +4,9 @@
 
 
 ## About Me : 
-I am a Master 1 student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics, economics and financial engineering) enrolled in a double degree with HEC Paris.
+I am a Master 2 student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics, economics and financial engineering) enrolled in a double degree with HEC Paris. In parallel, I am undertaking the MVA, a research Master in mathematics for AI at ENS Paris-Saclay. 
 
-I am interested in gymnastics and fitness, DJing and electronic music, statistics and mathematics, economics, cryptos and financial markets. 
+I am interested in DJing and electronic music, statistics and mathematics, economics, cryptos and financial markets. 
 
 ## Links :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jlvaleau)
