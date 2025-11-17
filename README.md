@@ -20,6 +20,12 @@ Python, Excel VBA, Microsoft Office
 
 ### Finished projects 
 
+- ENSAE Machine Learning for portfolio management project : the goal was to forecast the US yield curve and compare the performance of simple linear models with that of more complex models like random forests, XGboost or LSTM.
+  
+    It can be found here: https://github.com/jeanlouvaleau/ML-for-trading-project
+
+    Skills developed : Supervised learning (sklearn and Pytorch) - mostly classification, statistical testing (McNemar tests).
+  
 - ENSAE Data Science project : its goal is to identify the characteristics of a video game that impact its success among players.
 
     It can be found here : https://github.com/jeanlouvaleau/Projet-Python-Data-Science-M1-ENSAE-termin-.git
@@ -30,7 +36,7 @@ Python, Excel VBA, Microsoft Office
 
     It can be found here: https://github.com/Julien-website/STL_Project
 
-    Skills developed in this project : Data Science, Time Series modelization, Rstudio, Econometrics
+    Skills developed in this project : Data Science, Time Series modelization, Rstudio, Econometrics.
   
 
 ### Current projects 
