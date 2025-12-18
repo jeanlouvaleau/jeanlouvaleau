@@ -8,18 +8,23 @@ I am a Master 2 student at ENSAE Paris (National School of Statistics and Econom
 
 I am interested in DJing and electronic music, statistics and mathematics, economics, cryptos and financial markets. 
 
-## Links :
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jlvaleau)
-
+## Contact :
 You can contact me at jeanlou.valeau@ensae.fr
+
 ## Skills : 
-Python, Excel VBA, Microsoft Office
+Python (Pandas, Numpy, Scikit-learn, PyTorch, Statsmodels), Excel VBA, Microsoft Office.
 
 
 ## Projects : 
 
 ### Finished projects 
 
+- Dynamical Variational Autoencoders project : this project was carried out as part of the Probabilistic Graphical Models and Deep Generative Models class at ENS Paris Saclay. The goal was to train Variational Recurrent Neural Networks on audio speech data.
+  
+    It can be found here: https://github.com/jeanlouvaleau/Dynamical-Variational-Autoencoders
+
+    Skills developed: Deep Neural Networks training in PyTorch, Variational Autoencoders (VRNN, SRNN), audio data manipulation with melspectrograms. 
+  
 - ENSAE Machine Learning for portfolio management project : the goal was to forecast the US yield curve and compare the performance of simple linear models with that of more complex models like random forests, XGboost or LSTM.
   
     It can be found here: https://github.com/jeanlouvaleau/ML-for-trading-project
