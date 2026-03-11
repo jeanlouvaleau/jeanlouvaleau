@@ -56,7 +56,6 @@ Python (Pandas, Numpy, Scikit-learn, PyTorch, Statsmodels), Excel VBA, Microsoft
 
 - learning to mix on vinyl records
 
-- improving my performance in bench press
 
 <!---
 jeanlouvaleau/jeanlouvaleau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
